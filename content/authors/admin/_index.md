@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Anthony Osei Tutu
 
 # Username (this should match the folder name)
 authors:
@@ -10,20 +10,22 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Postdoctoral Research Associate
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: University of Arizona
+  url: "https://www.geo.arizona.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am currently a Postdoctoral Research Associate at the University of Arizona. I moved here in June, 2018 after my PhD studies at the GFZ-Potsdam and University of Potsdam. My research interest encompasses the use of numerical methods and observations to study Earth dynamics. I am mainly focused on exploring the physical process that relates various Geodynamic observables such as the geoid, topography, plate motions and intra-plate stresses and post glacial rebound to the dynamics of Earth's deep interior. Other areas of my research interest are using geodynamic models to explain such processes such as long term sea level change and shoreline migration or coastal flooding.
+
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Geodynamics of Mantle and lithosphere
+- Earth surface processes
+- Plate boundary dynamics
+- Earth and Planetary gravity field
 
 education:
   courses:
