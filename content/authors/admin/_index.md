@@ -18,7 +18,7 @@ organizations:
   url: "https://www.geo.arizona.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am currently a Postdoctoral Research Associate at the University of Arizona. I moved here in June, 2018 after my PhD studies at the GFZ-Potsdam and University of Potsdam. My research interest encompasses the use of numerical methods and observations to study Earth dynamics. I am mainly focused on exploring the physical process that relates various Geodynamic observables such as the geoid, topography, plate motions and intra-plate stresses and post glacial rebound to the dynamics of Earth's deep interior. Other areas of my research interest are using geodynamic models to explain such processes such as long term sea level change and shoreline migration or coastal flooding.
+bio:I am currently a Postdoctoral Research Associate at the University of Arizona. I moved here in June, 2018 after my PhD studies at the GFZ-Potsdam and University of Potsdam. My research interest encompasses the use of numerical methods and observations to study Earth dynamics. I am mainly focused on exploring the physical process that relates various Geodynamic observables such as the geoid, topography, plate motions and intra-plate stresses and post glacial rebound to the dynamics of Earth's deep interior. Other areas of my research interest are using geodynamic models to explain such processes such as long term sea level change and shoreline migration or coastal flooding.
 
 
 interests:
